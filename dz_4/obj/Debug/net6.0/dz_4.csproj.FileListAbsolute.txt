@@ -1,13 +1,24 @@
+<<<<<<< HEAD
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.exe
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.deps.json
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.runtimeconfig.json
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.dll
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.pdb
+=======
+>>>>>>> 8f23ad44c65b05a8939bac1e390a04d42d310abc
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\dz_4.csproj.AssemblyReference.cache
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\dz_4.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\dz_4.AssemblyInfoInputs.cache
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\dz_4.AssemblyInfo.cs
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\dz_4.csproj.CoreCompileInputs.cache
+<<<<<<< HEAD
+=======
+C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.exe
+C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.deps.json
+C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.runtimeconfig.json
+C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.dll
+C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\bin\Debug\net6.0\dz_4.pdb
+>>>>>>> 8f23ad44c65b05a8939bac1e390a04d42d310abc
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\dz_4.dll
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\refint\dz_4.dll
 C:\Users\dinar\OneDrive\Рабочий стол\DZ\dz_4\obj\Debug\net6.0\dz_4.pdb
